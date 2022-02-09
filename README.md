@@ -1,3 +1,4 @@
 # conversor-de-moeda-atual
-<img src="">
-conversor de moeda que mostra em tempo real a conversão do real para euro e dolar
+<img src="./img/print.png" >
+
+> conversor de moeda de real para dolar ou euro, pegando a cotação atual das duas moedas.
